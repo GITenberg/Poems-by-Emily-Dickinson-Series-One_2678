@@ -1,5 +1,5 @@
 _repo: Poems-by-Emily-Dickinson-Series-One_2678
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   creator:
     editors:
@@ -15,6 +15,9 @@ contributor:
       deathdate: 1932
       gutenberg_agent_id: '997'
       url: http://www.gutenberg.org/2009/agents/997
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dickinson, Emily
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/996
     wikipedia: http://en.wikipedia.org/wiki/Emily_Dickinson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2678#Poems-by-Emily-Dickinson-Series-One
 gutenberg_issued: '2001-06-01'
 gutenberg_type: Text
 identifiers:
