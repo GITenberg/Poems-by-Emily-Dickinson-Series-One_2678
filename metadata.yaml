@@ -1,5 +1,5 @@
 _repo: Poems-by-Emily-Dickinson-Series-One_2678
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editors:
@@ -41,5 +41,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PS'
 - !lcsh 'American poetry'
+- GITenberg
 title: Poems by Emily Dickinson, Series One
 url: http://www.gutenberg.org/ebooks/2678
